@@ -16,7 +16,6 @@ A lightweight and educational Security Information and Event Management (SIEM) s
 ---
 
 ## 🧱 Project Structure
-
 siem-tool/
 ├── main.py # Watches log file and processes new entries
 ├── app.py # Flask dashboard for viewing logs and alerts
@@ -35,10 +34,6 @@ siem-tool/
 │ └── detector.py # Custom threat detection rules
 ├── alerts/
 │ └── store_alerts.py # Writes alerts to log file
-
-
----
-
 ## 🚀 Use Cases
 
 | Scenario | How This SIEM Helps |
