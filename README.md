@@ -121,7 +121,7 @@ Edit
 
 ## 👨‍💻 Author
 
-Built by [Your Name] as a beginner-friendly cybersecurity project to understand how a SIEM system works.
+Built by Ankit kr Jha as a beginner-friendly cybersecurity project to understand how a SIEM system works.
 
 Feel free to fork, star, and contribute!
 
