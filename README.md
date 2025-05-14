@@ -37,7 +37,6 @@ siem-tool/
 │ └── store_alerts.py # Writes alerts to log file
 
 
-
 ---
 
 ## 🚀 Use Cases
